@@ -23,3 +23,10 @@ Fiscal.ai will be added when API access becomes available.
 The application will initially be developed locally, then deployed to Microsoft Azure and connected to:
 
 https://www.thumbPunch.com
+
+Development
+
+- Run the test suite: `./.venv/bin/python -m pytest -q`
+- Run type checking: `./.venv/bin/python -m mypy`
+
+
